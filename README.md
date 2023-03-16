@@ -5,6 +5,8 @@ This was created from a tutorial by Traversy Media. It uses the Django framework
 
 The admin page allows a superuser to easily create and modify questions and users.
 
+To run the app, clone the source code, run the migrations with `python manage.py migrate`, then run the server locally with `python manage.py runserver`
+
 <img width="1416" alt="Screenshot 2023-03-16 at 11 57 15" src="https://user-images.githubusercontent.com/52205276/225610291-86206590-6187-49ef-8640-e2503ee6c06a.png">
 <img width="722" alt="Screenshot 2023-03-16 at 11 57 58" src="https://user-images.githubusercontent.com/52205276/225610352-c7d4a510-f214-43b0-b789-578a96644bf0.png">
 
